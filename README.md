@@ -1,6 +1,8 @@
 # A_3_-Artix-7
 
-学习过程中所选的板子与视频教程中一样
+学习视频教程前依靠ai自行了解了基本的数电知识
+
+学习过程中vivado文件所选的板子与视频教程中一样
 
 每个项目的doc文件夹中存放绘制的波形图，vivado_project文件夹作为vivado项目，代码的存放使用vivado的默认存放位置
 设计文件存放于vivado_project\xxx.srcs\sources_1\new
