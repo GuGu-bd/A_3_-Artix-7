@@ -8,3 +8,5 @@
 设计文件存放于vivado_project\xxx.srcs\sources_1\new
 仿真文件存放于vivado_project\xxx.srcs\sim_1\new
 xxx为项目名称
+
+008分频器采用先观看教程中的波形图了解需要做出的功能后，自行完成设计 仿真 对比波形的过程，依靠ai进行修正，最后再对照视频补齐功能的步骤
