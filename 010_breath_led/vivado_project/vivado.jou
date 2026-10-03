@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat Oct  3 14:07:10 2026
+# Process ID: 16452
+# Current directory: D:/Users/Administrator/Documents/El/2Git/xinzhihui/A_3_-Artix-7/010_breath_led/vivado_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16664 D:\Users\Administrator\Documents\El\2Git\xinzhihui\A_3_-Artix-7\010_breath_led\vivado_project\breath_led.xpr
+# Log file: D:/Users/Administrator/Documents/El/2Git/xinzhihui/A_3_-Artix-7/010_breath_led/vivado_project/vivado.log
+# Journal file: D:/Users/Administrator/Documents/El/2Git/xinzhihui/A_3_-Artix-7/010_breath_led/vivado_project\vivado.jou
+# Running On: DESKTOP-N82219I, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17095 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/Users/Administrator/Documents/El/2Git/xinzhihui/A_3_-Artix-7/010_breath_led/vivado_project/breath_led.xpr
+update_compile_order -fileset sources_1
