@@ -17,7 +17,7 @@ always@(posedge sys_clk or negedge sys_rst_n)
         cnt_20ms <= 20'b0;
     else if (key_in == 1'b1)
         cnt_20ms <= 20'b0;
-    else if (key_in == CNT_MAX)
+    else if (cnt_20ms == CNT_MAX)
         cnt_20ms <= CNT_MAX;
     else
         cnt_20ms <= cnt_20ms + 20'b1;

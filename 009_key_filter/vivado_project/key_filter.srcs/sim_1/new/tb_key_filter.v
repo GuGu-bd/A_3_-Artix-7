@@ -30,7 +30,7 @@ always@(posedge sys_clk or negedge sys_rst_n)
         key_in <= 1'b1;
     else if (((tb_cnt >= 8'd19) && (tb_cnt <=8'd49)) || ((tb_cnt >= 8'd149) && (tb_cnt <=8'd199)))
         key_in <= {$random}%2;
-    else if ((tb_cnt < 8'd19) && (tb_cnt >8'd199))
+    else if ((tb_cnt < 8'd19) || (tb_cnt >8'd199))
         key_in <= 1'b1;
     else
         key_in <= 1'b0;

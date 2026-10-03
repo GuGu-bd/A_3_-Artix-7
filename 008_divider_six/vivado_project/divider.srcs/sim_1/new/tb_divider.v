@@ -21,7 +21,7 @@ divider_six
 #(
     .CNT_MAX(3'd4)
 )
-devieder_six_inst
+divider_six_inst
 (
     .sys_clk(sys_clk),
     .sys_rst_n(sys_rst_n),
